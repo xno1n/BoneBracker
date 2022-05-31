@@ -1,4 +1,3 @@
-![giphy (3)](https://user-images.githubusercontent.com/90966219/171276273-c0328bad-b59d-4823-80e1-a6864b6000a6.gif)
 # ✗ Power by  %N01N 
 <img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171060263-46b58092-c5bf-4683-8222-c550f228a337.png">
 
