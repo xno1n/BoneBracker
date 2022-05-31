@@ -8,13 +8,12 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left">Take a look at the Application user space :</h3>
 <img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171060402-895c00e6-734b-4222-b0e9-1f5fa049da43.png">
-<h1 align="center">Take a look at the Fine app!</h1>
 <h1 align="center">password cracking</h1>
-<img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171263870-1224017e-d484-46ee-a759-05e81124a2eb.png">
+<img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171270238-3ec6943d-d5b8-4a98-91e4-7eed943f009b.mp4">
 <h3 align="left">What is password cracker ?</h3>
 <p align="left">Password cracking refers to various measures used to discover computer passwords. This is usually accomplished by recovering passwords from data stored in, or transported from, a computer system. Password cracking is done by either repeatedly guessing the password, usually through a computer algorithm in which the computer tries numerous combinations until the password is successfully discovered. Hackers use password cracking in order to gain unauthorized access to a computer without the computer owner’s awareness.</p>
 <h1 align="center">ARP spoofer</h1>
-<img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171264452-bf09b54e-0f8c-4a35-b086-8a259db6a083.png">
+<img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171270256-10474c71-0e96-424e-a7c5-4fd7948d31cc.gif">
 <h3 align="left">What is Address Resolution Protocol (ARP) ?</h3>
 <p align="left">An ARP spoofing, also known as ARP poisoning, is a Man in the Middle (MitM) attack that allows attackers to intercept communication between two parties either to secretly eavesdrop or modify traffic traveling between the two. Attackers might use MitM attacks to steal login credentials or personal information, spy on the victim, or sabotage communications or corrupt data. The attack works as follows:</p>
 <p align="left">    1 - The attacker try to gain access to the network, then scan the network to find the IP addresses of his victims. For example the IP address of PC and router</p>
@@ -30,3 +29,8 @@
 <img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171265584-c9a6c6ed-4204-43b2-969b-7da5db2bb9df.png">
 <h3 align="left">What is port scanning ?</h3>
 <p align="left">Briefly, Port Scanning is a technique helps the attackers to determine which ports on a network are open and discover services they can exploit to break into a computer system.</p>
+
+![giphy]()
+
+
+
