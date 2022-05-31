@@ -27,7 +27,7 @@
 <h3 align="left">What is a vulnerability scanning ?</h3>
 <p align="left">Vulnerability scanning is an automated process that allows the organizations to check if their networks, systems and applications have security vulnerabilities that could expose them to attacks. Vulnerability scanning is performed by the IT department of the organization or a third-party security service provider. This scan is also performed by the attackers who try to discover entry points into the target network.</p>
 <h1 align="center">port scanner</h1>
-<img align="header" alt="Coding" width="1000" src="[https://user-images.githubusercontent.com/90966219/171265584-c9a6c6ed-4204-43b2-969b-7da5db2bb9df.png](https://user-images.githubusercontent.com/90966219/171275390-cb4e8a16-b62f-40f5-a6da-1593736b6b5c.gif)">
+<img align="header" alt="Coding" width="1000" src="(https://user-images.githubusercontent.com/90966219/171275390-cb4e8a16-b62f-40f5-a6da-1593736b6b5c.gif)">
 <h3 align="left">What is port scanning ?</h3>
 <p align="left">Briefly, Port Scanning is a technique helps the attackers to determine which ports on a network are open and discover services they can exploit to break into a computer system.</p>
 
