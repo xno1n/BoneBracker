@@ -17,11 +17,11 @@
 <img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171270256-10474c71-0e96-424e-a7c5-4fd7948d31cc.gif">
 <h3 align="left">What is Address Resolution Protocol (ARP) ?</h3>
 <p align="left">An ARP spoofing, also known as ARP poisoning, is a Man in the Middle (MitM) attack that allows attackers to intercept communication between two parties either to secretly eavesdrop or modify traffic traveling between the two. Attackers might use MitM attacks to steal login credentials or personal information, spy on the victim, or sabotage communications or corrupt data. The attack works as follows:</p>
-<p align="left">    &nbsp&nbsp1 - The attacker try to gain access to the network, then scan the network to find the IP addresses of his victims. For example the IP address of PC and router</p>
-<p align="left">    &nbsp&nbsp2 - The attacker uses any spoofing tool (such as arpspoof) to send out forged ARP responses.</p>
-<p align="left">   &nbsp&nbsp 3 - The forged responses trick the PC by sending the attacker’s MAC address as the router’s MAC address, and trick the router by sending the attacker’s MAC address as the PC’s MAC address. This fools both router and PC to connect to the attacker’s machine, instead of to each other.</p>
-<p align="left">    &nbsp&nbsp4 - The two devices update their ARP cache entries. After that, the communication is going through the attacker machine instead of directly with each other.</p>
-<p align="left">   &nbsp&nbsp 5 - The attacker is now secretly in the middle of all communications.</p>
+<p align="left">&nbsp&nbsp1 - The attacker try to gain access to the network, then scan the network to find the IP addresses of his victims. For example the IP address of PC and router</p>
+<p align="left">&nbsp&nbsp2 - The attacker uses any spoofing tool (such as arpspoof) to send out forged ARP responses.</p>
+<p align="left">&nbsp&nbsp 3 - The forged responses trick the PC by sending the attacker’s MAC address as the router’s MAC address, and trick the router by sending the attacker’s MAC address as the PC’s MAC address. This fools both router and PC to connect to the attacker’s machine, instead of to each other.</p>
+<p align="left">&nbsp&nbsp4 - The two devices update their ARP cache entries. After that, the communication is going through the attacker machine instead of directly with each other.</p>
+<p align="left">&nbsp&nbsp5 - The attacker is now secretly in the middle of all communications.</p>
 <h1 align="center">vulnerability</h1>
 <img align="header" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90966219/171275415-9c1b3617-bed2-4af8-b2aa-508fba8e0cfd.gif">
 <h3 align="left">What is a vulnerability scanning ?</h3>
